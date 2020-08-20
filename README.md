@@ -22,3 +22,6 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+// Demo 
+https://5f3dc833cb74c8177202fc86--xenodochial-archimedes-0a1b1c.netlify.app/?page=1
